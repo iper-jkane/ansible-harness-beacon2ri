@@ -1,0 +1,3 @@
+[submodule "beacon2ri"]
+	path = roles/beacon2ri
+	url = git@github.com:iper-jkane/ansible-beacon2ri-role

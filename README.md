@@ -1,4 +1,5 @@
-## An ansible artifact + role to install the Beacon Reference Implementation v2
+## An ansible artifact + role to install 
+##  the Beacon Reference Implementation v2
 
 tl;dr
 

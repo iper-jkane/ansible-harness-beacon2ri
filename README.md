@@ -9,7 +9,7 @@ tl;dr
 python3 -mvenv --copies ~/pyvirts/ansible
 source ~/pyvirts/ansible/bin/activate
 pip install -U pip
-pip install ansible==5.7.0
+pip install ansible==6.7.0
 
 # conigure target servers + ansible
 ## TODO.
